@@ -14,7 +14,6 @@ VALUES
 ('Sandra', 'Bullock', 1),
 ('Blake', 'Lively', 1),
 ('Salma', 'Hayek', 1),
-('Channing', 'Tatum', 1),
 ('Jason', 'Mamoa', 1);
 
 
@@ -27,11 +26,11 @@ VALUES
 (Software Engineer, 120000, 51),
 (Accountant, 125000, 52),
 (Legal Team Lead, 250000, 53),
-(Lawyer, 190000, 53),
+(Lawyer, 190000, 53);
 
 INSERT INTO department (department_name)
 VALUES
 (Sales),
 (Engineering),
 (Finance),
-(Legal),
+(Legal);
