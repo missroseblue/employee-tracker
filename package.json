@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/missroseblue/employee-tracker#readme",
   "dependencies": {
+    "ascii-art": "^2.8.5",
     "console.table": "^0.10.0",
     "express": "^4.17.1",
     "inquirer": "^8.2.0",
